@@ -1,2 +1,2 @@
 # Hola_mundo
-primer repositorio
+Mi primer repositorio de prueba
